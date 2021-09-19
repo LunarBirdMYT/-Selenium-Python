@@ -1,0 +1,17 @@
+1628423832638	geckodriver	INFO	Listening on 127.0.0.1:50938
+1628423835666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SevenTry\\AppData\\Local\\Temp\\rust_mozprofilenWVMMa"
+1628423839019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SevenTry\\AppData\\Local\\Temp\\rust_mozprofilenWVMMa\\search.json.mozlz4", (void 0)))
+1628423848422	Marionette	INFO	Listening on port 50949
+1628423848889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1627946966, line 6075: unreachable code after return statement
+1628423942946	Marionette	INFO	Stopped listening on port 50949
+1628424355488	geckodriver	INFO	Listening on 127.0.0.1:57281
+1628424358531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SevenTry\\AppData\\Local\\Temp\\rust_mozprofileOSPaDB"
+1628424358901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SevenTry\\AppData\\Local\\Temp\\rust_mozprofileOSPaDB\\search.json.mozlz4", (void 0)))
+1628424362156	Marionette	INFO	Listening on port 57292
+1628424362445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1628424364155	Marionette	INFO	Stopped listening on port 57292
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
